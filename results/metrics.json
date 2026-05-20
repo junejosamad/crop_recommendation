@@ -1,0 +1,16 @@
+{
+  "decision_tree_classifier": {
+    "accuracy": 0.925,
+    "precision_macro": 0.9142,
+    "recall_macro": 0.925
+  },
+  "knn_soil_segmentation": {
+    "clusters": 5,
+    "silhouette_score": 0.2929
+  },
+  "linear_regression_yield": {
+    "rmse": 0.5306,
+    "mae": 0.4084,
+    "r2": 0.8089
+  }
+}
