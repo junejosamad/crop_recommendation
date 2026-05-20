@@ -1,0 +1,10 @@
+venv/*
+venv
+linear_regression.ipynb
+ML_Lab_Demo_KNN_Complete.ipynb
+OEL_AI_LAB.pdf
+technical_report.pdf
+technical_report.md
+viva_questions_answers.md
+
+src/__pycache__*
